@@ -1,0 +1,4 @@
+site_name: My first readthedocs
+theme: readthedocs
+pages:
+- GUI_environments: GUI_environments.md
