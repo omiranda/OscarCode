@@ -10,7 +10,7 @@
 
 # Recommended steps in preparation to run it smoothly 
 
-## [Explore BIDS folders, get list of participants and report counts](./GUI_Environments/scout_bids_for_gui_env.md)
+## [Explore BIDS folders, get list of participants and report counts](./GUI_environments/scout_bids_for_gui_env.md)
 
 To feed the *GUI_environments* you need a list of participants. This list can be generated using the function `scout_bids_for_gui_env`. This function allows you to:
 
