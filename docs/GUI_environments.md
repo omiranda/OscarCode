@@ -10,9 +10,7 @@
 
 # Recommended steps in preparation to run it smoothly 
 
-### Explore BIDS folders, get list of participants and report counts
-
-### Pe-calculate variance file for all the subjects
+## [Explore BIDS folders, get list of participants and report counts](scout_bids_for_gui_env.md)
 
 To feed the *GUI_environments* you need a list of participants. This list can be generated using the function `scout_bids_for_gui_env`. This function allows you to:
 
@@ -24,6 +22,9 @@ To run it,
 ```matlab
 [T_count, list,text_counts,text_missing] = scout_bids_for_gui_env(root_path)
 ```
+
+## Pe-calculate variance file for all the subjects
+
 # Known issues
 
 ```matlab
