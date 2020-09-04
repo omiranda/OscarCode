@@ -1,4 +1,4 @@
 site_name: Oscar Matlab code
 theme: readthedocs
 pages:
-- GUI_environments: README.html
+- GUI_environments: GUI_environments.md
